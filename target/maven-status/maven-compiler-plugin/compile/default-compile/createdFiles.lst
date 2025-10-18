@@ -1,0 +1,9 @@
+ec\edu\espoch\bibliotecaa\modelo\estadosLibros.class
+ec\edu\espoch\bibliotecaa\Bibliotecaa.class
+ec\edu\espoch\bibliotecaa\modelo\Libros.class
+ec\edu\espoch\bibliotecaa\modelo\Estanterias.class
+ec\edu\espoch\bibliotecaa\modelo\Lectores.class
+ec\edu\espoch\bibliotecaa\modelo\Registros.class
+ec\edu\espoch\bibliotecaa\modelo\zonasPermitidas.class
+ec\edu\espoch\bibliotecaa\modelo\tiposTarjetas.class
+ec\edu\espoch\bibliotecaa\modelo\Tarjeta.class
